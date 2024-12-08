@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chanter</string>
+    <string name="zero">0</string>
+    <string name="counter">%d</string>
+    <string name="inc">+</string>
+    <string name="dec">-</string>
+    <string name="reset">Reset</string>
+    <string name="chanter">CHANTER🧘</string>
+    <string name="made">Made By Nishith kumar</string>
+</resources>
